@@ -1,2 +1,2 @@
 # Island-detection
-find islands formations given the Bus and Line data.
+Find island formations given the Bus and Line data.
